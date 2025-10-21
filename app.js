@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "A structured homepage designed using modern Bootstrap components.",
         "A mobile-friendly contact form for users to reach out easily."
     ];
-    const projectDeadlines = ["2025-02-10", "2024-11-30", "2024-12-15"];
+    const projectDeadlines = ["2025-10-21", "2025-09-30", "2025-09-15"];
 
     const projectsContainer = document.querySelector("#projects .row");
 
